@@ -3,6 +3,15 @@ for beginner
 
 about deep learning,artificial intelligence,machine learning. tensorflow and pytorch code. python and c++
 
+
+ 	
+Geoffrey E. Hinton: https://www.cs.toronto.edu/~hinton/
+
+Ilya Sutskever: https://www.cs.toronto.edu/~ilya/
+
+
+
+
 1 
 
 (PyTorch）神经网络模型快速上手——FashionMNIST 
