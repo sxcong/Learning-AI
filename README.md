@@ -4,22 +4,31 @@ for beginner
 about deep learning,artificial intelligence,machine learning. tensorflow and pytorch code. python and c++
 
 1 
+
 (PyTorch）神经网络模型快速上手——FashionMNIST 
+
 https://blog.csdn.net/weixin_44263674/article/details/125559389
 
 2 
+
 基于tensorflow2.3.0的模型保存与恢复（以Fashion MNIST为数据集）
+
 https://blog.csdn.net/wchwdog13/article/details/110441818
 
 3 
+
 Deep Learning Papers Reading Roadmap
+
 https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 
 4
+
 converts a trained keras model into a ready-for-inference TensorFlow model(将.h5文件转化为.pb文件)
+
 https://github.com/amir-abdi/keras_to_tensorflow
 
 5 
+
 c++ tensorflow
 
 https://blog.csdn.net/qq_41754894/article/details/93888450
