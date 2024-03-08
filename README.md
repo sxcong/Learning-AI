@@ -56,5 +56,22 @@ std::vector<tensorflow::Tensor> outputs;
 status = session->Run(inputs, { "Conv2D","side_3/conv2d_transpose","side_4/conv2d_transpose","side_5/conv2d_transpose" }, {}, &outputs);
 
 
+6 
 
+Face recognition using Tensorflow
+
+https://github.com/davidsandberg/facenet
+
+7
+
+https://github.com/cmusatyalab/openface
+
+Face recognition with deep neural networks.
+
+
+8
+
+FaceNet实现人脸识别----自己训练数据集并测试
+
+https://blog.csdn.net/m0_67241828/article/details/132128482
 
