@@ -3,7 +3,6 @@ for beginner
 
 about deep learning,artificial intelligence,machine learning. tensorflow and pytorch code. python and c++
 
-
 1 
 (PyTorch）神经网络模型快速上手——FashionMNIST 
 https://blog.csdn.net/weixin_44263674/article/details/125559389
